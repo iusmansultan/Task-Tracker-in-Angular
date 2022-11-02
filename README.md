@@ -7,8 +7,6 @@
     <h3>Task Tracker in Angular</h3>
   </a>
 
-  <h3 align="center">Task Tracker in Angular </h3>
-
   <p align="center">
 This project is created using Angular CLI and json db for testing purposes along with sanario and integration. Task Tracker helps you to create and understand basic of Angular development by just creating a task tracker app. 
     <br />
